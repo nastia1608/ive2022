@@ -1,1 +1,9 @@
-/*shop css*/
+.p {
+    margin-top: 35px;
+}
+.p {
+    padding: 35px;
+}
+.img {
+    background-image: url('images/background.png');
+}
